@@ -1,0 +1,14 @@
+Servicio consumido: Add(5, 8) - 19/11/2024 19:51:00
+Servicio consumido: Add(5, 3) - 19/11/2024 19:51:26
+Servicio consumido: Add(8, 13) - 19/11/2024 19:52:06
+Servicio consumido: Add(8, 13) - 19/11/2024 19:54:43
+Servicio consumido: Add(10, 12) - 19/11/2024 19:56:00
+Servicio consumido: Add(8, 1) - 19/11/2024 19:56:22
+Servicio consumido: Add(8, 1) - 19/11/2024 19:59:16
+Servicio consumido: Add(9, 9) - 20/11/2024 0:35:30
+Servicio consumido: Add(4, 2) - 20/11/2024 15:23:41
+Servicio consumido: Add(4, 2) - 20/11/2024 15:24:38
+Servicio consumido: Add(4, 2) - 20/11/2024 15:25:37
+Servicio consumido: Add(8, 1) - 20/11/2024 15:29:44
+Servicio consumido: Add(4, 2) - 20/11/2024 15:30:43
+Servicio consumido: Add(4, 2) - 20/11/2024 15:31:06
